@@ -6,6 +6,7 @@ Features:
 <ul>
   <li> Original 2D Art: Every asset, from the pickle to the obstacles, is uniquely designed. </li>
   <li> Simple Controls: Use the arrow keys to move and jump—no complicated mechanics.  </li>
+  <li> C# Coding: The entire game is programmed in C#, making it a great introduction to Unity scripting </li>
   <li> Endless Gameplay: Dodge knives and keep going for as long as possible to achieve a high score.  </li>
   <li> Casual Fun: A lighthearted project made to enjoy and improve Unity development skills. </li>
 </ul>
